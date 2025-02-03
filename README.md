@@ -8,3 +8,4 @@ Para ejecutar el sistema, debes poner:
 
 Editado desde Git Hub Consola **** Se vera el cambio en la carpeta local ? que clone ? Vamos a ver ... 
 
+Otro cambio.
