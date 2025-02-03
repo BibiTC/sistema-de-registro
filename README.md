@@ -5,3 +5,7 @@
 Para ejecutar el sistema, debes poner:
 
 ```npm install react```
+
+
+Cambio desde Archivo local en la maquina. 
+
