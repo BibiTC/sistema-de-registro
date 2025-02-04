@@ -13,3 +13,4 @@ Cambio desde Archivo local en la maquina.
 Cambio desde Archivo Local Desde Visual Studio Code.
 Commit y Sync
 Ultima Linea Adicionada
+Manejo de Git Pull para que el cambio que hice en GitHub quede en el repositorio local de mi maquina
